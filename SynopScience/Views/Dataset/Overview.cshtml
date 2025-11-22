@@ -1,0 +1,29 @@
+﻿@model SynopScience.Models.Dataset
+@{
+}
+<h2>Dataset Overview:</h2>
+<table class="table">
+	<tr>
+		<th>ID</th>
+		<th>Item Code</th>
+		<th>Item Name</th>
+		<th>Item Description</th>
+		<th>Item Type</th>
+		<th>Item Count</th>
+		<th>Item Price</th>
+		<th>Item Shelf Life</th>
+		<th>Item Active</th>
+	</tr>
+	<tr>
+		<td>@Model.Id</td>
+		<td>@Model.ItemCode</td>
+		<td>@Model.ItemName</td>
+		<td>@Model.ItemDescription</td>
+		<td>@Model.ItemType</td>
+		<td>@Model.ItemCount</td>
+		<td>@Model.ItemPrice</td> 
+		<td>@Model.ItemShelfLife</td>
+		<td>@Model.ItemActive</td>
+	</tr>
+</table>
+

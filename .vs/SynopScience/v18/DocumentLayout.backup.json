@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\holos\\Documents\\SynopScience\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Migrations\\20251122164825_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SynopScience\\Migrations\\20251122164825_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|c:\\users\\holos\\documents\\synopscience\\synopscience\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|solutionrelative:synopscience\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|c:\\users\\holos\\documents\\synopscience\\synopscience\\controllers\\datasetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|solutionrelative:synopscience\\controllers\\datasetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|c:\\users\\holos\\documents\\synopscience\\synopscience\\data\\datasetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|solutionrelative:synopscience\\data\\datasetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|c:\\users\\holos\\documents\\synopscience\\synopscience\\views\\dataset\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|solutionrelative:synopscience\\views\\dataset\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|c:\\users\\holos\\documents\\synopscience\\synopscience\\models\\serialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|solutionrelative:synopscience\\models\\serialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|c:\\users\\holos\\documents\\synopscience\\synopscience\\models\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|solutionrelative:synopscience\\models\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|c:\\users\\holos\\documents\\synopscience\\synopscience\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|solutionrelative:synopscience\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|c:\\users\\holos\\documents\\synopscience\\synopscience\\synopscience.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AC91318-2B9F-44F4-8FDE-985087423623}|SynopScience\\SynopScience.csproj|solutionrelative:synopscience\\synopscience.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251122164825_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Migrations\\20251122164825_Initial Migration.cs",
+              "RelativeDocumentMoniker": "SynopScience\\Migrations\\20251122164825_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Migrations\\20251122164825_Initial Migration.cs",
+              "RelativeToolTip": "SynopScience\\Migrations\\20251122164825_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:48:26.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\appsettings.json",
+              "RelativeDocumentMoniker": "SynopScience\\appsettings.json",
+              "ToolTip": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\appsettings.json",
+              "RelativeToolTip": "SynopScience\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T16:47:02.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SerialNumber.cs",
+              "DocumentMoniker": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Models\\SerialNumber.cs",
+              "RelativeDocumentMoniker": "SynopScience\\Models\\SerialNumber.cs",
+              "ToolTip": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Models\\SerialNumber.cs",
+              "RelativeToolTip": "SynopScience\\Models\\SerialNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T21:14:58.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Views\\Dataset\\Index.cshtml",
+              "RelativeDocumentMoniker": "SynopScience\\Views\\Dataset\\Index.cshtml",
+              "ToolTip": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Views\\Dataset\\Index.cshtml",
+              "RelativeToolTip": "SynopScience\\Views\\Dataset\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T17:03:53.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatasetController.cs",
+              "DocumentMoniker": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Controllers\\DatasetController.cs",
+              "RelativeDocumentMoniker": "SynopScience\\Controllers\\DatasetController.cs",
+              "ToolTip": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Controllers\\DatasetController.cs",
+              "RelativeToolTip": "SynopScience\\Controllers\\DatasetController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:44:23.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dataset.cs",
+              "DocumentMoniker": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Models\\Dataset.cs",
+              "RelativeDocumentMoniker": "SynopScience\\Models\\Dataset.cs",
+              "ToolTip": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Models\\Dataset.cs",
+              "RelativeToolTip": "SynopScience\\Models\\Dataset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:44:04.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatasetContext.cs",
+              "DocumentMoniker": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Data\\DatasetContext.cs",
+              "RelativeDocumentMoniker": "SynopScience\\Data\\DatasetContext.cs",
+              "ToolTip": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Data\\DatasetContext.cs",
+              "RelativeToolTip": "SynopScience\\Data\\DatasetContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:20:49.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Program.cs",
+              "RelativeDocumentMoniker": "SynopScience\\Program.cs",
+              "ToolTip": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\Program.cs",
+              "RelativeToolTip": "SynopScience\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:37:34.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SynopScience.csproj",
+              "DocumentMoniker": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\SynopScience.csproj",
+              "RelativeDocumentMoniker": "SynopScience\\SynopScience.csproj",
+              "ToolTip": "C:\\Users\\holos\\Documents\\SynopScience\\SynopScience\\SynopScience.csproj",
+              "RelativeToolTip": "SynopScience\\SynopScience.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T15:37:04.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

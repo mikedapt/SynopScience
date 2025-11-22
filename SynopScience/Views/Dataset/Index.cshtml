@@ -1,0 +1,45 @@
+﻿@model List<SynopScience.Models.Dataset>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Index</h3>
+<a asp-action="Create" class="btn btn-primary">+ New Row</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Item Code</th>
+            <th>Item Name</th>
+            <th>Item Description</th>
+            <th>Item Type</th>
+            <th>Item Count</th>
+            <th>Item Price</th>
+            <th>Item Shelf Life</th>
+            <th>Item Active</th>
+            @*<th>Serial Number</th>*@
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var data in Model)
+        {
+            <tr>
+                <td>@data.Id</td>
+                <td>@data.ItemCode</td>
+                <td>@data.ItemName</td>
+                <td>@data.ItemDescription</td>
+                <td>@data.ItemType</td>
+                <td>@data.ItemCount</td>
+                <td>$@data.ItemPrice</td>
+                <td>@data.ItemShelfLife</td>
+                <td>@data.ItemActive</td>
+                @*<td>@data.SerialNumber?.Name</td>*@
+                <td>
+                    <a asp-action="Edit" asp-route-id="@data.Id">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@data.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

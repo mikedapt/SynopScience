@@ -1,0 +1,44 @@
+﻿@model SynopScience.Models.Dataset;
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h3>Edit Item</h3>
+
+<form asp-action="Edit" method="post">
+    <div class="form-group">
+        <label for="ItemCode">Item Code</label>
+        <input type="text" class="form-control" asp-for="ItemCode" />
+    </div>
+    <div class="form-group">
+        <label for="ItemName">Item Name</label>
+        <input type="text" class="form-control" asp-for="ItemName" />
+    </div>
+    <div class="form-group">
+        <label for="ItemDescription">Item Description</label>
+        <input type="text" class="form-control" asp-for="ItemDescription" />
+    </div>
+    <div class="form-group">
+        <label for="ItemType">Item Type</label>
+        <input type="text" class="form-control" asp-for="ItemType" />
+    </div>
+    <div class="form-group">
+        <label for="ItemCount">Quantity</label>
+        <input type="number" class="form-control" asp-for="ItemCount" />
+    </div>
+    <div class="form-group">
+        <label for="ItemPrice">Price</label>
+        <input type="text" class="form-control" asp-for="ItemPrice" />
+    </div>
+    <div class="form-group">
+        <label for="ItemShelfLife">Shelf Life</label>
+        <input type="number" class="form-control" asp-for="ItemShelfLife" />
+    </div>
+    <div class="form-group">
+        <label for="ItemActive">Active</label>
+        <input type="checkbox" class="form-check" asp-for="ItemActive" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>
