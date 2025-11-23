@@ -388,7 +388,6 @@ C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\rjsmcshtml.
 C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\scopedcss\bundle\SynopScience.styles.css
 C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\scopedcss\projectbundle\SynopScience.bundle.scp.css
-C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\compressed\izf33yhbor-{0}-c2tiyv64ts-c2tiyv64ts.gz
 C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\compressed\pos8akl3ov-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\compressed\jsmx3vemi4-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\compressed\ys7dqdykdc-{0}-agp80tu62r-agp80tu62r.gz
@@ -461,3 +460,5 @@ C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\refint\Syno
 C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\SynopScience.pdb
 C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\SynopScience.genruntimeconfig.cache
 C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\ref\SynopScience.dll
+C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\SynopScience.sourcelink.json
+C:\Users\holos\Documents\SynopScience\SynopScience\obj\Debug\net10.0\compressed\izf33yhbor-{0}-hza1vvpvda-hza1vvpvda.gz

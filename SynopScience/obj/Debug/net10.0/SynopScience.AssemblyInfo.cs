@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SynopScience")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dacfb34e6fec9bd77a1b1c8e4f220c2b784e040")]
 [assembly: System.Reflection.AssemblyProductAttribute("SynopScience")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SynopScience")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
